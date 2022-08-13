@@ -1,2 +1,2 @@
 # Simple Calculator
- A simple calculator GUI 
+ A Desktop GUI calculator 
